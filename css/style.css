@@ -181,6 +181,7 @@ img {
   height: 85vh;
   text-align: center;
   background-color: #f7f7f7;
+  word-break: break-word;
 }
 
 .certification-body {
