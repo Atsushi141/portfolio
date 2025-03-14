@@ -178,10 +178,10 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 85vh;
+  height: 150vh;
   text-align: center;
   background-color: #f7f7f7;
-  word-break: break-word;
+  /* word-break: break-word; */
 }
 
 .certification-body {
@@ -189,8 +189,7 @@ img {
 }
 
 .certification-body {
-  width: 1000px;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.7;
 }
 
@@ -493,7 +492,7 @@ img {
   /*  Certification */
 
   .certification {
-    height: 75vh;
+    height: 120vh;
   }
   
   .certification-body {
