@@ -489,6 +489,17 @@ img {
     line-height: 1.7;
   }
 
+  /*  Certification */
+
+  .certification {
+    height: 75vh;
+  }
+  
+  .certification-body {
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
   /* Works */
   .works-name {
     font-size: 12px;
